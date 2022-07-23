@@ -1,4 +1,4 @@
-Bank Churn Machine Learning Project
+# Bank Churn Machine Learning Project
 
 INTRODUCTION:
 
